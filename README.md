@@ -18,7 +18,7 @@ Nosso primeiro produto está sendo desenvolvido para automatizar processos de co
 
 ## 🛠️ Tecnologias
 
--**Front-End**
+**Front-End**
 - React
 - Vite
 - JavaScript
@@ -26,7 +26,8 @@ Nosso primeiro produto está sendo desenvolvido para automatizar processos de co
 - Html
 - ESLint
 
-- **Back-end**
+
+ **Back-end**
 
 ---
 
